@@ -151,11 +151,6 @@ hash = "25418f63529650d1fb832a8fd94320c398d2dcffaa086d566398f7d375b3e812"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.toml"
 hash = "88434fbde54b61254d3d0adea22de30f5c3660163a44ec7fdf64a1c2c2be4811"
 metafile = true
@@ -193,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
 metafile = true
 
 [[files]]
