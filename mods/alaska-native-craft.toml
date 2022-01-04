@@ -1,0 +1,13 @@
+name = "Alaska Native Craft"
+filename = "alaskanativecraft-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iFnEtHsI/versions/1.4.2/alaskanativecraft-1.4.2.jar"
+hash-format = "sha512"
+hash = "d49d9712d5c6f2309fd589c63eb494a51ec703b0551385c925f510415dec502ae057af807e2faf4f82d4db7b5c27d0990a50f806898ec82a1e4042f462244536"
+
+[update]
+[update.modrinth]
+mod-id = "iFnEtHsI"
+version = "OjuCPMq8"

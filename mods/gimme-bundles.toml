@@ -1,0 +1,13 @@
+name = " Gimme bundles!"
+filename = "gimme-bundles-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rul3O8v7/versions/1.0.4/gimme-bundles-fabric-1.0.4.jar"
+hash-format = "sha512"
+hash = "4f18ee357d4d6d7ba2afc0464ddbba87b578b22121857adf3c98adc1d2a865b46edd1b22fe48c3323d0e67274bc0902c44cc053e8310f0e1c5fee1879fbd8628"
+
+[update]
+[update.modrinth]
+mod-id = "Rul3O8v7"
+version = "wietFDGC"

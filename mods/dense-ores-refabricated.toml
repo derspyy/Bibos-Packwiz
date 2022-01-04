@@ -1,0 +1,13 @@
+name = "Dense Ores: Refabricated"
+filename = "denseores-1.2.1+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mJq5ykOP/versions/1.2.1+1.18.1/denseores-1.2.1+1.18.1.jar"
+hash-format = "sha512"
+hash = "add0f037b5bf8b04aeaa096d0f362a5ffc6983a0f446e5b1f9cfa2e834645a4e251b984d14f7b0c288a867330bd9caefe81aecc34d56113b15a46d79bec465db"
+
+[update]
+[update.modrinth]
+mod-id = "mJq5ykOP"
+version = "sATgA3rD"

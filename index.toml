@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/addadd.toml"
+hash = "60acef8379dd63512b73dbbfc5eb8bfbd5552e081b233e8e41dc04af72ece6cd"
+metafile = true
+
+[[files]]
+file = "mods/alaska-native-craft.toml"
+hash = "786ab77f408a853f6b969eaff07e97d47bdb92800a52df60ca422090c4809634"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+metafile = true
+
+[[files]]
 file = "mods/cem.toml"
 hash = "84736dff13eb506b1cedcdb7a359bb0af143b987696e382e7502591d51c65ac2"
 metafile = true
@@ -11,8 +26,28 @@ hash = "662c4290b6cb893f17754badc199be1069f435e3fda28ee4aed876892a465162"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
 file = "mods/continuity.toml"
 hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
+metafile = true
+
+[[files]]
+file = "mods/creeper-ai-updated.toml"
+hash = "1fc85053ada093a484b2a926dfa70d771ea3b1df903131890a79c8f210407f02"
+metafile = true
+
+[[files]]
+file = "mods/creeper-spores.toml"
+hash = "29b748d3d806a5133de9bdc0d330d4f1fabc9529e91f071a41bb46e51e205dde"
+metafile = true
+
+[[files]]
+file = "mods/culinaire.toml"
+hash = "7326f21d7370b251aaed814b3b948d58052147eeddb0781f917b90243f0d8930"
 metafile = true
 
 [[files]]
@@ -21,18 +56,48 @@ hash = "3d1ae3b20ccd3ace88c82d1a6b33d98f3be4bb1ce9a818c5870902db3d573ba0"
 metafile = true
 
 [[files]]
+file = "mods/dense-ores-refabricated.toml"
+hash = "aabcd55a1ed65af055179335ab89a5439b65694eaba1c623fc5277aa0d119937"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
 metafile = true
 
 [[files]]
+file = "mods/enhancedcraft.toml"
+hash = "c1bc6df2af05e1fc494074d94e80908005c57caf45c56efb350dfa3cafb428ed"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds.toml"
+hash = "050a98776edba8ef31bfacc43b281177415472e08674d9d030d57afe55085ca3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
-hash = "cca182d08570efb635087137a03bd2d76c8a0cb8836f6eb539881ac6b91a4708"
+hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.toml"
+hash = "2b088474f731aa25c745a6a4258ef076c061f0eb374e1bbffd8896c315524002"
+metafile = true
+
+[[files]]
+file = "mods/gimme-bundles.toml"
+hash = "b49b3d6c76c4ca931eb7c83fd535892454c0a9751c39a81efa3ebfb9f8236974"
 metafile = true
 
 [[files]]
 file = "mods/gldown.toml"
 hash = "2c427789543f276864e54ae8fbfcb58c09b67b19fae65eb36e19381c956df84b"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.toml"
+hash = "ffafc7f1d9e9372d58f8bf36980c26d332d038735b77c30e0cf9982f752f95f6"
 metafile = true
 
 [[files]]
@@ -66,6 +131,16 @@ hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.toml"
+hash = "e0d16cbfea271acf695975924a423a3cc32bc72e6a37fe7d8f0332aef1b16854"
+metafile = true
+
+[[files]]
+file = "mods/ost-overhaul.toml"
+hash = "162f7009a4dc7e1aa9d2a7815dad9f219a93ad22b97d11a283d3d9381bffe228"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
 metafile = true
@@ -76,11 +151,61 @@ hash = "88434fbde54b61254d3d0adea22de30f5c3660163a44ec7fdf64a1c2c2be4811"
 metafile = true
 
 [[files]]
+file = "mods/promenade.toml"
+hash = "afcb5821fd420a300ee06a705fa31844617e3bdfabd9a2a5d12000d7d730b70c"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "e7ecdcb6f848e268f6569ebfc5d3f1262aff065f5a293d499e98957360b5930b"
+metafile = true
+
+[[files]]
+file = "mods/requiem.toml"
+hash = "1e19a4320a5c4547ca686e357ad6ad48adc0220c975d87c281603257d2e40359"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages.toml"
+hash = "e752542fd8a134c8f37e13c37ee25adef79e538b12e1b223c2de65c2fcacea71"
+metafile = true
+
+[[files]]
+file = "mods/smarthudreheated.toml"
+hash = "bb94f820e432a5198bdc37d9cd2f131a2be8d5ffc3d9b300971be857236b859c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
 
 [[files]]
+file = "mods/this-rocks.toml"
+hash = "4fe8cb912adfc84d24df5b1e3db54bb7cff10159ad8550b50afcc58ef46d5c40"
+metafile = true
+
+[[files]]
 file = "mods/tiefix.toml"
 hash = "90bc891202a1ab6fcdaa8833f9482f918887dcf9829aaf21505578d00583bc79"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.toml"
+hash = "a95326af97e290d97b9b9ecd8cd0a07751960dd567dda51a8175fcc3c31f8c4f"
+metafile = true
+
+[[files]]
+file = "mods/victus.toml"
+hash = "81ee352656532f70ac1937cc9eeee2761a3557966ad6022d004cd0b21fedb210"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "b4083f6bb921553a48bb8b2f3f2ccc15c68c5d4cae40b055da389d2b32d76b20"
 metafile = true

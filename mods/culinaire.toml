@@ -1,0 +1,13 @@
+name = "Culinaire"
+filename = "culinaire-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MO1ODvmm/versions/2.3.3/culinaire-2.3.3.jar"
+hash-format = "sha512"
+hash = "1844252a81a8c412a520c0be544229a1259d3afa748ebc9f26357468daa6c31838cab4a64b5cbb23f1606082311ebf5e1b3f9dc501c87c57800943c7f132f84d"
+
+[update]
+[update.modrinth]
+mod-id = "MO1ODvmm"
+version = "s3FqezEg"
