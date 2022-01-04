@@ -56,6 +56,11 @@ hash = "3d1ae3b20ccd3ace88c82d1a6b33d98f3be4bb1ce9a818c5870902db3d573ba0"
 metafile = true
 
 [[files]]
+file = "mods/dawn.toml"
+hash = "1d341cffda3caea9911882a8c4508bc0934fe93563a6dd3c158aaf20f9ade07c"
+metafile = true
+
+[[files]]
 file = "mods/dense-ores-refabricated.toml"
 hash = "aabcd55a1ed65af055179335ab89a5439b65694eaba1c623fc5277aa0d119937"
 metafile = true
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
@@ -141,6 +151,11 @@ hash = "162f7009a4dc7e1aa9d2a7815dad9f219a93ad22b97d11a283d3d9381bffe228"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+hash = "25418f63529650d1fb832a8fd94320c398d2dcffaa086d566398f7d375b3e812"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
 metafile = true
@@ -198,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-additions.toml"
 hash = "a95326af97e290d97b9b9ecd8cd0a07751960dd567dda51a8175fcc3c31f8c4f"
-metafile = true
-
-[[files]]
-file = "mods/victus.toml"
-hash = "81ee352656532f70ac1937cc9eeee2761a3557966ad6022d004cd0b21fedb210"
 metafile = true
 
 [[files]]
