@@ -1,13 +1,13 @@
 name = "Requiem"
-filename = "Requiem-API-2.0.0-beta.5.jar"
+filename = "requiem-2.0.0-beta.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bYmqMxlQ/versions/2.0.0-beta.5/Requiem-API-2.0.0-beta.5.jar"
-hash-format = "sha512"
-hash = "9128c8d007fc52ccbc9b2ef23c96247abf114b580485bdd9191ba36960cf063860c359b4994580d4e87024f9d42fb76e91fc5157cfb71ef260c13f17f8b009d6"
+url = "https://edge.forgecdn.net/files/3574/843/requiem-2.0.0-beta.5.jar"
+hash-format = "murmur2"
+hash = "3189139755"
 
 [update]
-[update.modrinth]
-mod-id = "bYmqMxlQ"
-version = "nTX0Gy6U"
+[update.curseforge]
+file-id = 3574843
+project-id = 265729

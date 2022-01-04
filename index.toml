@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/requiem.toml"
-hash = "1e19a4320a5c4547ca686e357ad6ad48adc0220c975d87c281603257d2e40359"
+hash = "065cd943331336e6bd755db47790ef98a341929f01230806b1fe09a6354dca8d"
 metafile = true
 
 [[files]]
