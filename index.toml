@@ -11,8 +11,18 @@ hash = "786ab77f408a853f6b969eaff07e97d47bdb92800a52df60ca422090c4809634"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.toml"
+hash = "ea9317f689a57e604a3495f375980952f12f5b3d8a3f05a33655573eea068bcc"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.toml"
+hash = "c14ae17a7cbc4ca10a047e66c52fbfbb53a22578a9f90d69fd25c376591490bb"
 metafile = true
 
 [[files]]
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-additions.toml"
 hash = "a95326af97e290d97b9b9ecd8cd0a07751960dd567dda51a8175fcc3c31f8c4f"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.toml"
+hash = "d4e5717c709714f9a2ea60366e4b3ccebecb900694cd24d9b9b58c01924dabaf"
 metafile = true
 
 [[files]]
