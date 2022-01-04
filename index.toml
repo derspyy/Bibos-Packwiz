@@ -216,11 +216,6 @@ hash = "a95326af97e290d97b9b9ecd8cd0a07751960dd567dda51a8175fcc3c31f8c4f"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.toml"
-hash = "d4e5717c709714f9a2ea60366e4b3ccebecb900694cd24d9b9b58c01924dabaf"
-metafile = true
-
-[[files]]
 file = "mods/wthit.toml"
 hash = "b4083f6bb921553a48bb8b2f3f2ccc15c68c5d4cae40b055da389d2b32d76b20"
 metafile = true
