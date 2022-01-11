@@ -196,11 +196,6 @@ hash = "e752542fd8a134c8f37e13c37ee25adef79e538b12e1b223c2de65c2fcacea71"
 metafile = true
 
 [[files]]
-file = "mods/smarthudreheated.toml"
-hash = "bad867c611d526887718591a742f9e3ec8baafbe662e1ae4773ed49388b6e255"
-metafile = true
-
-[[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
