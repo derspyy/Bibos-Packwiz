@@ -1,13 +1,13 @@
 name = "SmartHUDReheated"
-filename = "smarthud-3.1.1.jar"
+filename = "smarthud-3.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/40J91xJe/versions/3.1.1/smarthud-3.1.1.jar"
+url = "https://cdn.modrinth.com/data/40J91xJe/versions/3.2.0/smarthud-3.2.0.jar"
 hash-format = "sha512"
-hash = "5b2bfe777487ac57de8c333d0e2c1da130ce114a542fa8f81bc164b0138c4587627b15eb99c0ab10d114d14f482213994387e866d0087aa9827a30147b1923f7"
+hash = "0371a8bbb1228a6a5c8ea1d051f05021b080a426a2bde263536898664a55fe8bce80129fdac24a3f28056c9d5866c1b5bab44b3554ae3a873d2aa949754bb274"
 
 [update]
 [update.modrinth]
 mod-id = "40J91xJe"
-version = "opqYXHAE"
+version = "nIpEa9Rt"

@@ -76,6 +76,11 @@ hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
 metafile = true
 
 [[files]]
+file = "mods/effective.toml"
+hash = "bf12203d7923bcc1060bbec8aaab382ebb3df9fb11575dace8aa6b6a68125fe7"
+metafile = true
+
+[[files]]
 file = "mods/enhancedcraft.toml"
 hash = "c1bc6df2af05e1fc494074d94e80908005c57caf45c56efb350dfa3cafb428ed"
 metafile = true
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+hash = "2fdfc03898a5e23b23e9eecbce011c2ea0e0386cff14be61518b342533b6c663"
 metafile = true
 
 [[files]]
@@ -121,6 +126,11 @@ hash = "6363596c5cb5959ee0905e42c305b27934f169e634eaffc6ca268623c2410915"
 metafile = true
 
 [[files]]
+file = "mods/krypton.toml"
+hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
@@ -132,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.toml"
-hash = "e0d16cbfea271acf695975924a423a3cc32bc72e6a37fe7d8f0332aef1b16854"
+hash = "fde94d82226ae22e6c5f77b67b69d2a81d67e3cf6dc11d06213ecc7ed4c05100"
 metafile = true
 
 [[files]]
@@ -177,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarthudreheated.toml"
-hash = "bb94f820e432a5198bdc37d9cd2f131a2be8d5ffc3d9b300971be857236b859c"
+hash = "bad867c611d526887718591a742f9e3ec8baafbe662e1ae4773ed49388b6e255"
 metafile = true
 
 [[files]]
@@ -207,5 +217,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "b4083f6bb921553a48bb8b2f3f2ccc15c68c5d4cae40b055da389d2b32d76b20"
+hash = "71dd5475b43b2125953efa9d9abd940299c6d663721646d79777b519cf714df9"
 metafile = true
