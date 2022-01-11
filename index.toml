@@ -36,6 +36,11 @@ hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.toml"
+hash = "5a34aa553fb6eb65203cfe6d85cbe7065cc41f8ee2b8d68e21c83f3264c880a9"
+metafile = true
+
+[[files]]
 file = "mods/continuity.toml"
 hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
 metafile = true
@@ -146,6 +151,11 @@ hash = "fde94d82226ae22e6c5f77b67b69d2a81d67e3cf6dc11d06213ecc7ed4c05100"
 metafile = true
 
 [[files]]
+file = "mods/no-null-processors.toml"
+hash = "cacf5ebda915edc99213691d325e881db490b7420822bc3ae88fe1798a74a645"
+metafile = true
+
+[[files]]
 file = "mods/ost-overhaul.toml"
 hash = "162f7009a4dc7e1aa9d2a7815dad9f219a93ad22b97d11a283d3d9381bffe228"
 metafile = true
@@ -193,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "d36583665efdfe18046b6e318f8710da7e766395d27e324db1911cf45d262dfe"
 metafile = true
 
 [[files]]
