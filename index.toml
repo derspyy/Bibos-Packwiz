@@ -76,6 +76,11 @@ hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
 metafile = true
 
 [[files]]
+file = "mods/effective.toml"
+hash = "bf12203d7923bcc1060bbec8aaab382ebb3df9fb11575dace8aa6b6a68125fe7"
+metafile = true
+
+[[files]]
 file = "mods/enhancedcraft.toml"
 hash = "c1bc6df2af05e1fc494074d94e80908005c57caf45c56efb350dfa3cafb428ed"
 metafile = true
