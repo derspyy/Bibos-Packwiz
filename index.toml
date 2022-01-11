@@ -191,6 +191,11 @@ hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
 metafile = true
 
 [[files]]
+file = "mods/secret-rooms.toml"
+hash = "313fcb20f7ab4daa535a239b2c8ed3d7bab2774ddccbe4c96a9bf48a76e26d26"
+metafile = true
+
+[[files]]
 file = "mods/sky-villages.toml"
 hash = "e752542fd8a134c8f37e13c37ee25adef79e538b12e1b223c2de65c2fcacea71"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
+metafile = true
+
+[[files]]
+file = "mods/things.toml"
+hash = "7a867e482fb524d1cd9d93a094f354dbb5b858e2caf5e00e9bd25548aaa65137"
 metafile = true
 
 [[files]]
