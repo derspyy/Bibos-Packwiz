@@ -236,6 +236,11 @@ hash = "a95326af97e290d97b9b9ecd8cd0a07751960dd567dda51a8175fcc3c31f8c4f"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.toml"
+hash = "dc1a8d61499956d206373f24798acd393b11199bf91873906b6f5164bf08f964"
+metafile = true
+
+[[files]]
 file = "mods/wthit.toml"
 hash = "71dd5475b43b2125953efa9d9abd940299c6d663721646d79777b519cf714df9"
 metafile = true
