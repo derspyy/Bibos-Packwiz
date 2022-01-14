@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/requiem.toml"
-hash = "065cd943331336e6bd755db47790ef98a341929f01230806b1fe09a6354dca8d"
+hash = "2656bbe1227a812db3e3da986bd64f46203b24b218ed689666e4918a5db1262f"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/things.toml"
-hash = "7a867e482fb524d1cd9d93a094f354dbb5b858e2caf5e00e9bd25548aaa65137"
+hash = "af5989a69f884eaa102137c8850e234954f647951069bf6053541cbd01152b7e"
 metafile = true
 
 [[files]]

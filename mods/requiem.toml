@@ -1,13 +1,13 @@
 name = "Requiem"
-filename = "requiem-2.0.0-beta.5.jar"
+filename = "requiem-2.0.0-beta.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3574/843/requiem-2.0.0-beta.5.jar"
+url = "https://edge.forgecdn.net/files/3605/134/requiem-2.0.0-beta.6.jar"
 hash-format = "murmur2"
-hash = "3189139755"
+hash = "2969953120"
 
 [update]
 [update.curseforge]
-file-id = 3574843
+file-id = 3605134
 project-id = 265729
