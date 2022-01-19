@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "32339cfe26fd77e2eefce8e5a549e580c6f68b4426a5d399398d9dec9f2740c2"
+hash = "4c4a87a05ed89f6a0a99b2783c9c4e9dfdaef462fed8ff88bd73d27da73d4ed5"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "7de350a9e425dd89b8bb42d2232ff6a10c4affe48c9de6004d5e7094f9d7fa8a"
+hash = "42371b3236cccd35dd7d8e8ca34375b39a37bbf14274fc7c8008092afb0f1bcb"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "e7ecdcb6f848e268f6569ebfc5d3f1262aff065f5a293d499e98957360b5930b"
+hash = "31882a56e9594c8d1fec1cf011894a72f5cf2bdcd0806e1c09c6f3b14e702819"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8917e32878e2b5274c60c98e149c5861c3162b516b40807ce48344d009e3b028"
+hash = "3fe8faaf1f791842046d9d478c4b63962cc975378021ce91962933f140a5947e"
 metafile = true
 
 [[files]]
