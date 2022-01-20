@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-ai-updated.toml"
-hash = "1fc85053ada093a484b2a926dfa70d771ea3b1df903131890a79c8f210407f02"
+hash = "c82b9ad27aa7496db62408dfc1f3c0c7aa136357bd41ec18b0736118dc008b0f"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "42371b3236cccd35dd7d8e8ca34375b39a37bbf14274fc7c8008092afb0f1bcb"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "31882a56e9594c8d1fec1cf011894a72f5cf2bdcd0806e1c09c6f3b14e702819"
+hash = "5859cf0be7a44c8ef67f55bb403c249303ae832ea1042255d094c5b5b2c28a8d"
 metafile = true
 
 [[files]]
