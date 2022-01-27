@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3fe8faaf1f791842046d9d478c4b63962cc975378021ce91962933f140a5947e"
+hash = "740668c213c095d418367fc119cb6fb7db21e9971ddd06d92953bfa0d88e27a5"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiefix.toml"
-hash = "90bc891202a1ab6fcdaa8833f9482f918887dcf9829aaf21505578d00583bc79"
+hash = "26d2dc9abe46668f6b884bde739d0faae776b956e87f2c13f253fdf1aa919083"
 metafile = true
 
 [[files]]
