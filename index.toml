@@ -166,11 +166,6 @@ hash = "bb1d365cef22a5408f4d04dc1f0e9d7101aa20acb27ac5d3304dd90452eadd19"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.toml"
-hash = "acba39dc817cc55a107c682e3bebffd75cdb657ae88e79e9189205fe6741c194"
-metafile = true
-
-[[files]]
 file = "mods/promenade.toml"
 hash = "afcb5821fd420a300ee06a705fa31844617e3bdfabd9a2a5d12000d7d730b70c"
 metafile = true
