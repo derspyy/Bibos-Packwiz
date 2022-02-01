@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+hash = "a62320e2d509f7cd9759c40eaa7d2da4ca28ffddf65d36b25d6047bb0773e80b"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "f582ab93d5ca761f657f1d1528a0c10f52b2ed79e42f577a2350299ad8a291bd"
 metafile = true
 
 [[files]]
@@ -162,17 +162,17 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "bb1d365cef22a5408f4d04dc1f0e9d7101aa20acb27ac5d3304dd90452eadd19"
+hash = "e87e60626567bdee227d7cebdd764aa674714f2ebdae25890553f9ade61c65ad"
 metafile = true
 
 [[files]]
 file = "mods/promenade.toml"
-hash = "afcb5821fd420a300ee06a705fa31844617e3bdfabd9a2a5d12000d7d730b70c"
+hash = "cf86e32b11a76bbc361ffd191ff443a7583bf64589206004d8270fb70c82e5fb"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "ce834702f9c7d5ad8d3dbd091f12cf01e2e6f4c5574724c6f71c330d1cbd8215"
+hash = "09bb5c8f1a36401e81c7169adc23d738dd9601655abc03c1cada18e8f9168ab3"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "740668c213c095d418367fc119cb6fb7db21e9971ddd06d92953bfa0d88e27a5"
+hash = "a15d2debac2c67862d460045d08ca9c4a5b905c8ea16a5fd5ad8d62d98773355"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/things.toml"
-hash = "af5989a69f884eaa102137c8850e234954f647951069bf6053541cbd01152b7e"
+hash = "2eef9fe28fe6b53ebc388648aa93d52be5bf2b5d53d353963df3f10b4c160129"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.toml"
-hash = "dc1a8d61499956d206373f24798acd393b11199bf91873906b6f5164bf08f964"
+hash = "52e926b62a57b1c27163cafd914707491988ec25eca99afbd766465066feb988"
 metafile = true
 
 [[files]]
