@@ -1,13 +1,13 @@
 name = "Promenade"
-filename = "promenade-2.5.0.jar"
+filename = "promenade-2.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.5.0/promenade-2.5.0.jar"
+url = "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.5.1/promenade-2.5.1.jar"
 hash-format = "sha512"
-hash = "4f6e711a911a9e87a039f88bf72153f116d08a2b0c3d27291c7eb55dff15b989b63359aa5887edfb6f5709d88a0affbb1c7ca5649533831d068014981e3228d0"
+hash = "ccea93c4eb77847604c08f7365ad47beee40c359edfefa7364827677aafbc760c2611a3b827e02e38efc1ca1517b6f4fbef4f7a73d4f064074cff1b74df3e813"
 
 [update]
 [update.modrinth]
 mod-id = "GuE5FpvB"
-version = "z3XHgyMg"
+version = "s2r6UFMr"
