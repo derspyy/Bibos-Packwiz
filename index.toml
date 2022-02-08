@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2b4f7d296105d9be198028d66b2c7a2a4682d5c70deabf7c4129ff226b969c3f"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
@@ -172,17 +172,17 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "09bb5c8f1a36401e81c7169adc23d738dd9601655abc03c1cada18e8f9168ab3"
+hash = "bbddd0fe2a7497a62fe545c855245b59b6f1c1e5ed1582b7969180d430686933"
 metafile = true
 
 [[files]]
 file = "mods/requiem.toml"
-hash = "2656bbe1227a812db3e3da986bd64f46203b24b218ed689666e4918a5db1262f"
+hash = "a7faafe5ffa629f1071c42bb9f3ef3dfefa5cf5f7c9be17ab04c789acb1e759b"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "a15d2debac2c67862d460045d08ca9c4a5b905c8ea16a5fd5ad8d62d98773355"
+hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
 
 [[files]]
