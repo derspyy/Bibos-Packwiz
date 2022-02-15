@@ -106,6 +106,11 @@ hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.toml"
+hash = "051c09e14638dc26c9f80ceb44facb5f3f2aa2d5aa352719748c3facd10a9ab3"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.toml"
 hash = "2b088474f731aa25c745a6a4258ef076c061f0eb374e1bbffd8896c315524002"
 metafile = true
