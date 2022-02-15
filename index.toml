@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "7bbfbed46e2604c84df612e950efed8ba7fce4ed6f6afd97c5f07cc5a2f7cd2b"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-spores.toml"
-hash = "29b748d3d806a5133de9bdc0d330d4f1fabc9529e91f071a41bb46e51e205dde"
+hash = "1d258b06004a0929bc5a691fef78a85da33b8be794cf972c2057c81e92e83542"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.toml"
-hash = "fde94d82226ae22e6c5f77b67b69d2a81d67e3cf6dc11d06213ecc7ed4c05100"
+hash = "fdd2abd382aee68e2e69208ea291a0eb3c41f064aac21353998044c135c076fe"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "e87e60626567bdee227d7cebdd764aa674714f2ebdae25890553f9ade61c65ad"
+hash = "311c934b34760781a319aab9fe3a2023c0854409afa155213a35b635290221f0"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "bbddd0fe2a7497a62fe545c855245b59b6f1c1e5ed1582b7969180d430686933"
+hash = "0b7a07e683860dedaafeca506c07872dd50826517b759a648deebe489b928909"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/secret-rooms.toml"
-hash = "313fcb20f7ab4daa535a239b2c8ed3d7bab2774ddccbe4c96a9bf48a76e26d26"
+hash = "a7bb253ff643e90ef952677959ff1efc2acf000c4ca7f44ff80ba80722ab6ec3"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "d36583665efdfe18046b6e318f8710da7e766395d27e324db1911cf45d262dfe"
+hash = "f6b555e6f28ba0e86008ac48fa0b2971962e6a93f5a1b5e92dab0401e46e73dd"
 metafile = true
 
 [[files]]
