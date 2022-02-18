@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "0b7a07e683860dedaafeca506c07872dd50826517b759a648deebe489b928909"
+hash = "15df861977b1faf20cd9ef66605a7308c92aaf76d267af13fddff648e325584f"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
+hash = "d012eaca0ac8181126c2179ce33556559e6592a9d35415976d90aeb72a9b1438"
 metafile = true
 
 [[files]]
