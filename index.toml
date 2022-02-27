@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/things.toml"
-hash = "2eef9fe28fe6b53ebc388648aa93d52be5bf2b5d53d353963df3f10b4c160129"
+hash = "839b8571d282a0a1dc2401d18ca8332e332260cd73c553fdfe4b1d7794191b1b"
 metafile = true
 
 [[files]]
@@ -242,5 +242,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "dac34129a01190d3a87015aa96f6ab65c175afe1a4e0224f02619a259de2d1ff"
+hash = "b72faa65a24166092664ace874c5a0b3ace10444804b22b8bf340bf9e4aaaefc"
 metafile = true
